@@ -1,6 +1,19 @@
 # React - React Router
 
 ## Project Overview
+Team member Nutthavit Charoensivakorn 6530347
+
+How to use web
+
+The app has two pages.
+
+1. First you will see the dashboard page show the tables for each detail (Brand,Model,Nuber of cars, Vaule(Bath))
+
+2. First you have to choose a brand by select a brand button and choose tpyed of chart then the chart will be pop up
+
+3. For the Highlighted Car page it show  Carlist and detials (Brand,price,values)
+
+4. It has a highlight button that mark which car you selected but when you click again it will be unhighlight, when you refresh the page the data still save. 
 
 
 ### Installation
