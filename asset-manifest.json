@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c93c0307.chunk.css",
+    "main.js": "./static/js/main.35f0731c.chunk.js",
+    "main.js.map": "./static/js/main.35f0731c.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.964f444c.js",
+    "runtime-main.js.map": "./static/js/runtime-main.964f444c.js.map",
+    "static/js/2.2a9caca0.chunk.js": "./static/js/2.2a9caca0.chunk.js",
+    "static/js/2.2a9caca0.chunk.js.map": "./static/js/2.2a9caca0.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.feb9f0e74fd247ce469b4a80cbcda4bf.js": "./precache-manifest.feb9f0e74fd247ce469b4a80cbcda4bf.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.c93c0307.chunk.css.map": "./static/css/main.c93c0307.chunk.css.map",
+    "static/js/2.2a9caca0.chunk.js.LICENSE.txt": "./static/js/2.2a9caca0.chunk.js.LICENSE.txt",
+    "static/media/accord.jpg": "./static/media/accord.1efc88a6.jpg",
+    "static/media/altis.jpg": "./static/media/altis.9567468e.jpg",
+    "static/media/camry.jpg": "./static/media/camry.16dfea29.jpg",
+    "static/media/city.jpg": "./static/media/city.a03cef2b.jpg",
+    "static/media/civic.jpg": "./static/media/civic.63f5ef8c.jpg",
+    "static/media/corolla.jpg": "./static/media/corolla.8e72cbd4.jpg",
+    "static/media/yaris.jpg": "./static/media/yaris.d35c89b4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.964f444c.js",
+    "static/js/2.2a9caca0.chunk.js",
+    "static/css/main.c93c0307.chunk.css",
+    "static/js/main.35f0731c.chunk.js"
+  ]
+}
