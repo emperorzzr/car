@@ -13,7 +13,7 @@ The app has two pages.
 
 3. For the Highlighted Car page it show  Carlist and detials (Brand,price,values)
 
-4. It has a highlight button that mark which car you selected but when you click again it will be unhighlight, when you refresh the page the data still save. 
+4. It has a highlight button that mark which car you selected (the model and price but when you click again it will be unhighlight, when you refresh the page the data still save. 
 
 
 ### Installation
