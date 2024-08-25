@@ -1,0 +1,55 @@
+
+[
+  {
+    "brand": "Toyota",
+    "models": [
+      {
+        "model": "Yaris",
+        "numberOfCars": 20,
+        "valueInBaht": 600000,
+        "image": "/images/yaris.jpg"
+      },
+      {
+        "model": "Corolla Cross",
+        "numberOfCars": 30,
+        "valueInBaht": 900000,
+        "image": "/images/corolla.jpg"
+      },
+      {
+        "model": "Corolla Altis",
+        "numberOfCars": 50,
+        "valueInBaht": 900000,
+        "image": "/images/altis.jpg"
+      },
+      {
+        "model": "Camry",
+        "numberOfCars": 100,
+        "valueInBaht": 1600000,
+        "image": "/images/camry.jpg"
+      }
+    ]
+  },
+  {
+    "brand": "Honda",
+    "models": [
+      {
+        "model": "Accord",
+        "numberOfCars": 20,
+        "valueInBaht": 1600000,
+        "image": "/images/accord.jpg"
+      },
+      {
+        "model": "Civic",
+        "numberOfCars": 30,
+        "valueInBaht": 1000000,
+        "image": "/images/civic.jpg"
+      },
+      {
+        "model": "City",
+        "numberOfCars": 50,
+        "valueInBaht": 600000,
+        "image": "/images/city.jpg"
+      }
+    ]
+  }
+]
